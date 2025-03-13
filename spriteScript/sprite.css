@@ -1,0 +1,18 @@
+.ab {
+  background-image: url('sprite.png');
+  background-position: -0px -0px;
+  width: 111px;
+  height: 112px;
+}
+.acb {
+  background-image: url('sprite.png');
+  background-position: -111px -0px;
+  width: 111px;
+  height: 111px;
+}
+.agrib {
+  background-image: url('sprite.png');
+  background-position: -222px -0px;
+  width: 111px;
+  height: 111px;
+}

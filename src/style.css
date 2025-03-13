@@ -1,0 +1,12 @@
+.title {
+    color:blue;
+    :global {
+        body {
+            background-color: antiquewhite;
+            color: cornflowerblue;
+        }
+        #root {
+            color: red;       
+        }
+    }
+}
